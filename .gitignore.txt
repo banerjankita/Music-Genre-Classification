@@ -1,0 +1,16 @@
+# Ignore virtual environment
+venv/
+
+# Ignore dataset and test music
+Dataset/
+Test_Music/
+
+# Ignore model checkpoints if needed
+*.ckpt
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
